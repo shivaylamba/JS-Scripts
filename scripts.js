@@ -19,4 +19,4 @@
 var name;
 var sys = ScriptEngine(name = "");
 
-// Do whatever now that sys is defined
+// Now we wait till the script engine truly exists
