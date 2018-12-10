@@ -1,5 +1,5 @@
 /**
-  * Core script to handle plugins/commands
+  * Core script to handle plugins/commands ok
   * Not to be edited until script engine exists in C++ section of the Project
   *
   * Script Engine Variable Will be "sys", Example
